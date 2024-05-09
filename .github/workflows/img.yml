@@ -1,4 +1,4 @@
-name: Image Workflow $
+name: Image Workflow !
 on:
   push:
     branches:
