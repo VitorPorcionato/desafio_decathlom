@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} Pipeline EFS  $
 on:
   push:
     branches:
-      - "develop_test"
+      - "develop"
 
 jobs:
   githubactions-desafio:

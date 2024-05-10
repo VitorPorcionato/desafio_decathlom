@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} Pipeline Imagem  !
 on:
   push:
     branches:
-      - "develop_test"
+      - "develop"
     paths:
       - 'Imagens/*'
 jobs:
